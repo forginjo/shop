@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ivan/mobilShopApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/ivan/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.4.aar/0b45216e961a4df13723e51ace0ec9ad/res/values-v11/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "170",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "291"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "176"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+# Referenced at /home/ivan/mobilShopApp/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
+-keep class com.ivan.mobilshopapp.MainApplication { <init>(...); }
